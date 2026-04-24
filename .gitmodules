@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/equiposeis84/backend.git
+[submodule "RematesPaisa"]
+	path = RematesPaisa
+	url = https://github.com/equiposeis84/RematesPaisa.git
+[submodule "RematesPaisa-mobile"]
+	path = RematesPaisa-mobile
+	url = https://github.com/equiposeis84/RematesPaisa-mobile.git
