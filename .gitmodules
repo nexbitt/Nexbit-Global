@@ -7,3 +7,6 @@
 [submodule "RematesPaisa-mobile"]
 	path = RematesPaisa-mobile
 	url = https://github.com/equiposeis84/RematesPaisa-mobile.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/equiposeis84/Frontend.git
