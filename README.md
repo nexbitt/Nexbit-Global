@@ -1,6 +1,4 @@
----
-
-## Repositorios
+## 📦 Repositorios
 
 | Proyecto | Tecnología | Repositorio |
 |----------|-----------|-------------|
@@ -15,28 +13,25 @@
 Para correr el proyecto completo necesitas levantar el backend primero y luego el frontend o la app móvil.
 
 **1. Backend**
-```bash
-git clone https://github.com/equiposeis84/backend.git
-cd backend
-npm install --legacy-peer-deps
-npm run dev
-```
+
+    git clone https://github.com/equiposeis84/backend.git
+    cd backend
+    npm install --legacy-peer-deps
+    npm run dev
 
 **2. Frontend**
-```bash
-git clone https://github.com/equiposeis84/frontend.git
-cd frontend
-npm install
-npm run dev
-```
+
+    git clone https://github.com/equiposeis84/frontend.git
+    cd frontend
+    npm install
+    npm run dev
 
 **3. Mobile**
-```bash
-git clone https://github.com/equiposeis84/mobile.git
-cd mobile
-npm install
-npx expo start
-```
+
+    git clone https://github.com/equiposeis84/mobile.git
+    cd mobile
+    npm install
+    npx expo start
 
 ---
 
