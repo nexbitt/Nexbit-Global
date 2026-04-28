@@ -10,3 +10,12 @@
 [submodule "Frontend"]
 	path = Frontend
 	url = https://github.com/equiposeis84/Frontend.git
+[submodule "Nexbit-Frontend"]
+	path = Nexbit-Frontend
+	url = https://github.com/nexbitt/Nexbit-Frontend.git
+[submodule "Nexbit-Backend"]
+	path = Nexbit-Backend
+	url = https://github.com/nexbitt/Nexbit-Backend.git
+[submodule "Nexbit-mobile"]
+	path = Nexbit-mobile
+	url = https://github.com/nexbitt/Nexbit-mobile.git
