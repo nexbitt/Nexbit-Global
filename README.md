@@ -1,12 +1,12 @@
 ---
 
-## 📦 Repositorios
+## Repositorios
 
 | Proyecto | Tecnología | Repositorio |
 |----------|-----------|-------------|
-| 🖥️ Frontend | React + Vite | [Ver repositorio](https://github.com/equiposeis84/frontend) |
-| ⚙️ Backend  | Node.js + Express + Prisma | [Ver repositorio](https://github.com/equiposeis84/backend) |
-| 📱 Mobile   | React Native + Expo | [Ver repositorio](https://github.com/equiposeis84/mobile) |
+| Frontend | React + Vite | [Ver repositorio]([https://github.com/equiposeis84/frontend](https://github.com/nexbitt/Nexbit-Frontend.git)) |
+| Backend  | Node.js + Express + Prisma | [Ver repositorio]([https://github.com/equiposeis84/backend](https://github.com/nexbitt/Nexbit-Backend.git)) |
+| Mobile   | React Native + Expo | [Ver repositorio]([https://github.com/equiposeis84/mobile](https://github.com/nexbitt/Nexbit-mobile.git)) |
 
 ---
 
